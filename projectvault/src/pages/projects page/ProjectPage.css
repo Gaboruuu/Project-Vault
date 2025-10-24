@@ -1,0 +1,45 @@
+.prjP-cards-container {
+  margin: 0 auto;
+  width: 60%;
+  display: flex;
+  justify-content: center;
+  padding: 20px;
+  height: auto;
+  border-top: 2px rgb(237, 237, 237) dashed;
+  margin-bottom: 100px;
+  flex-wrap: wrap;
+}
+
+.prjP-main-container {
+  height: auto;
+}
+
+.prjP-text-container {
+  text-align: start;
+  width: 60%;
+  margin: 0 auto;
+}
+
+.prjP-text-container h1 {
+  margin: 0;
+  font-weight: 700;
+  line-height: 1.3333333333333333;
+  font-size: 60px;
+  font-family: "__Barlow_92d964", "__Barlow_Fallback_92d964", Helvetica, Arial,
+    sans-serif;
+  margin-top: 24px;
+  margin-bottom: 24px;
+  text-transform: capitalize;
+  color: rgb(37, 37, 37);
+}
+
+.prjP-text-container p {
+  line-height: 1.5;
+  font-size: 1.2rem;
+  font-family: "__Public_Sans_f258fb", "__Public_Sans_Fallback_f258fb",
+    Helvetica, Arial, sans-serif;
+  font-weight: 400;
+  color: #637381;
+  margin-bottom: 50px;
+  max-width: 600px;
+}

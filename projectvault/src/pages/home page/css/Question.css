@@ -1,0 +1,57 @@
+.qH-container {
+  height: auto;
+}
+
+.qH-main-container {
+  max-width: 750px;
+  margin: 0 auto;
+  padding-top: 50px;
+  padding-bottom: 100px;
+}
+
+.qH-item-container {
+  height: auto;
+  margin-bottom: 100px;
+  margin-left: 24px;
+  margin-right: 14px;
+}
+
+.qH-titleQ-container {
+  margin: 0;
+  font-weight: 700;
+  font-size: 2.75rem;
+  font-family: "__Barlow_92d964", "__Barlow_Fallback_92d964", Helvetica, Arial,
+    sans-serif;
+  text-transform: capitalize;
+  margin-bottom: 100px;
+}
+
+.qH-qAa-container {
+  position: relative;
+}
+
+.qH-contact-container {
+  height: 300px;
+  border-radius: 20px;
+  border: 2px rgb(198, 198, 198) dotted;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+
+.qH-titleC-container {
+  margin: 0;
+  font-weight: 700;
+  line-height: 1.5;
+  font-size: 2rem;
+  font-family: "__Barlow_92d964", "__Barlow_Fallback_92d964", Helvetica, Arial,
+    sans-serif;
+  text-transform: capitalize;
+  margin-top: 50px;
+}
+
+.qH-text-container {
+  font-family: "__Barlow_92d964", "__Barlow_Fallback_92d964", Helvetica, Arial,
+    sans-serif;
+  color: grey;
+  padding-bottom: 30px;
+}

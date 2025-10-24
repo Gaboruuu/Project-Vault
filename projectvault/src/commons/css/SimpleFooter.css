@@ -1,0 +1,9 @@
+.sft-container {
+  border-top: 2px solid rgb(230, 230, 230);
+  height: 200px;
+  align-items: center;
+}
+
+.sft-container img {
+  margin-top: 60px;
+}

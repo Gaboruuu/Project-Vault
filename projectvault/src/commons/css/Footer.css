@@ -1,0 +1,85 @@
+.fot-main-container {
+  border-top: 2px solid rgb(216, 216, 216);
+  height: auto;
+}
+
+.fot-container {
+  display: flex;
+  width: 70%;
+  margin: 0 auto;
+  justify-content: space-between;
+  height: auto;
+}
+
+.fot-about-container {
+  width: 400px;
+}
+
+.fot-about-logo {
+  height: 90px;
+}
+
+.fot-button-container button {
+  margin: 5px;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  background: transparent;
+  width: 40px;
+}
+
+.fot-button-container button img {
+  width: 100%;
+}
+
+.fot-pages-container {
+  width: 100%;
+  height: auto;
+  display: block;
+  text-align: start;
+}
+
+.fot-copyright {
+  border-top: 2px solid rgb(216, 216, 216);
+}
+
+.fot-row {
+  display: block;
+}
+
+.fot-pages-container a {
+  display: block;
+  margin-bottom: 20px;
+  text-decoration: none;
+  color: inherit;
+  width: 200px;
+}
+
+.fot-pages-container a:hover {
+  text-decoration: underline;
+}
+
+.fot-pages-category {
+  display: flex;
+}
+
+@media (max-width: 900px) {
+  .fot-container {
+    display: block;
+    width: 90%;
+    margin: 20px;
+  }
+
+  .fot-about-container {
+    justify-content: center;
+    width: auto;
+  }
+
+  .fot-pages-category {
+    justify-content: center;
+  }
+
+  .fot-pages-container {
+    width: 150px;
+  }
+}
