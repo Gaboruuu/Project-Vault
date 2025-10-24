@@ -213,9 +213,9 @@ _Screenshots and demo GIFs will be added here to showcase the application's feat
 
 For interviews or inquiries, please reach out through:
 
-- GitHub: [Your GitHub Profile]
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn Profile]
+- GitHub: [[Gaboruu](https://github.com/Gaboruuu)]
+- Email: [[Personal](gabriel.gabor2016@gmail.com)]
+- LinkedIn: [[Gabor Gabriel](https://www.linkedin.com/in/gabriel-gabor-9864a6354/)]
 
 ---
 
